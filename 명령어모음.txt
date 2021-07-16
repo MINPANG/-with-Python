@@ -1,2 +1,9 @@
 git restore "파일명"  //깃허브에 올라가 있는 파일로 되돌리기 
 git push // 파일들 깃허브로 밀어넣기
+
+
+커밋 순서!!
+git add "파일명"
+git commit -m "뭘 변경햇는지 작성"
+git push
+
